@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.kitcuidados.app-merged_res-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kitcuidados.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kitcuidados.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kitcuidados.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

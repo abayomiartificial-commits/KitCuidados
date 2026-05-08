@@ -2,6 +2,7 @@ package com.kitcuidados.app.data.repository
 
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
+import com.google.firebase.auth.UserProfileChangeRequest
 import com.kitcuidados.app.domain.model.User
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -35,7 +36,10 @@ class AuthRepository @Inject constructor(
     suspend fun register(email: String, password: String, displayName: String): Result<User> {
         return try {
             val result = auth.createUserWithEmailAndPassword(email, password).await()
-            result.user?.updateProfile(displayName(displayName))
+            val profileUpdates = UserProfileChangeRequest.Builder()
+                .setDisplayName(displayName)
+                .build()
+            result.user?.updateProfile(profileUpdates)?.await()
             Result.success(result.user?.toUser() ?: throw Exception("User is null"))
         } catch (e: Exception) {
             Result.failure(e)

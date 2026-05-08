@@ -1,0 +1,76 @@
+com.kitcuidados.app-res-0 C:\Inicio Antigravity\proyectos\KitCuidados\app\build\generated\res\processDebugGoogleServices
+com.kitcuidados.app-resValues-1 C:\Inicio Antigravity\proyectos\KitCuidados\app\build\generated\res\resValues\debug
+com.kitcuidados.app-packageDebugResources-2 C:\Inicio Antigravity\proyectos\KitCuidados\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kitcuidados.app-packageDebugResources-3 C:\Inicio Antigravity\proyectos\KitCuidados\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kitcuidados.app-merged_res-4 C:\Inicio Antigravity\proyectos\KitCuidados\app\build\intermediates\merged_res\debug
+com.kitcuidados.app-debug-5 C:\Inicio Antigravity\proyectos\KitCuidados\app\src\debug\res
+com.kitcuidados.app-main-6 C:\Inicio Antigravity\proyectos\KitCuidados\app\src\main\res
+com.kitcuidados.app-jetified-material3-release-7 C:\Users\Richard\.gradle\caches\transforms-3\041c35d0f1c3b98d9f037993371d89ac\transformed\jetified-material3-release\res
+com.kitcuidados.app-jetified-ui-tooling-release-8 C:\Users\Richard\.gradle\caches\transforms-3\0b1c9f2411771d84a02cc3ac728e9d7a\transformed\jetified-ui-tooling-release\res
+com.kitcuidados.app-appcompat-1.6.1-9 C:\Users\Richard\.gradle\caches\transforms-3\0e31073100df2f2da1b856fd2448b0fa\transformed\appcompat-1.6.1\res
+com.kitcuidados.app-jetified-appcompat-resources-1.6.1-10 C:\Users\Richard\.gradle\caches\transforms-3\14fdac48a42303980352ddcc2d57f03c\transformed\jetified-appcompat-resources-1.6.1\res
+com.kitcuidados.app-core-1.12.0-11 C:\Users\Richard\.gradle\caches\transforms-3\18ad3db71f1e3b27d7574506ad6692e1\transformed\core-1.12.0\res
+com.kitcuidados.app-jetified-material-release-12 C:\Users\Richard\.gradle\caches\transforms-3\1d03fd75d2492bda62eac601383e65d2\transformed\jetified-material-release\res
+com.kitcuidados.app-jetified-datastore-preferences-1.0.0-13 C:\Users\Richard\.gradle\caches\transforms-3\1fba4f4ab2ae84eb186c8b0e555f5725\transformed\jetified-datastore-preferences-1.0.0\res
+com.kitcuidados.app-jetified-ui-test-manifest-1.6.1-14 C:\Users\Richard\.gradle\caches\transforms-3\24c0e655d21f2586c2bffe107c406abe\transformed\jetified-ui-test-manifest-1.6.1\res
+com.kitcuidados.app-jetified-customview-poolingcontainer-1.0.0-15 C:\Users\Richard\.gradle\caches\transforms-3\295e551813c14b34dd32e2231d9b1d3f\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.kitcuidados.app-jetified-emoji2-1.3.0-16 C:\Users\Richard\.gradle\caches\transforms-3\2c5703dc75d266f1d337b95b6123b9b5\transformed\jetified-emoji2-1.3.0\res
+com.kitcuidados.app-jetified-material-icons-core-release-17 C:\Users\Richard\.gradle\caches\transforms-3\2c5a53a09db86789699048c4744dc6d9\transformed\jetified-material-icons-core-release\res
+com.kitcuidados.app-lifecycle-livedata-2.6.2-18 C:\Users\Richard\.gradle\caches\transforms-3\2e25e6d77aa1f1b811407a6acf3a97e8\transformed\lifecycle-livedata-2.6.2\res
+com.kitcuidados.app-navigation-runtime-ktx-2.7.6-19 C:\Users\Richard\.gradle\caches\transforms-3\2fe9df389b4c7c2321433eae1916efbb\transformed\navigation-runtime-ktx-2.7.6\res
+com.kitcuidados.app-jetified-runtime-saveable-release-20 C:\Users\Richard\.gradle\caches\transforms-3\3aa73fe96ad81d306e04778e22ba087b\transformed\jetified-runtime-saveable-release\res
+com.kitcuidados.app-jetified-material-icons-extended-release-21 C:\Users\Richard\.gradle\caches\transforms-3\3ebe074f97da2e553150b42c4bcb2053\transformed\jetified-material-icons-extended-release\res
+com.kitcuidados.app-work-runtime-ktx-2.9.0-22 C:\Users\Richard\.gradle\caches\transforms-3\403f71aa60510c1c3d2405db00fa3c92\transformed\work-runtime-ktx-2.9.0\res
+com.kitcuidados.app-jetified-emoji2-views-helper-1.3.0-23 C:\Users\Richard\.gradle\caches\transforms-3\4128957747966eb33fcb1a2120af19ab\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.kitcuidados.app-jetified-animation-release-24 C:\Users\Richard\.gradle\caches\transforms-3\4195333f5e9b89af44b6e28d64849b74\transformed\jetified-animation-release\res
+com.kitcuidados.app-jetified-profileinstaller-1.3.0-25 C:\Users\Richard\.gradle\caches\transforms-3\4329864f3abeec1097384151dc6b19a5\transformed\jetified-profileinstaller-1.3.0\res
+com.kitcuidados.app-sqlite-framework-2.4.0-26 C:\Users\Richard\.gradle\caches\transforms-3\44f80a6e2b3b9afebfaa40e078bb19c4\transformed\sqlite-framework-2.4.0\res
+com.kitcuidados.app-work-runtime-2.9.0-27 C:\Users\Richard\.gradle\caches\transforms-3\4c0989abcb878fd05b1101322e5ce3cb\transformed\work-runtime-2.9.0\res
+com.kitcuidados.app-jetified-lifecycle-process-2.6.2-28 C:\Users\Richard\.gradle\caches\transforms-3\58910bb0704ac28a4246edce20de2810\transformed\jetified-lifecycle-process-2.6.2\res
+com.kitcuidados.app-jetified-runtime-release-29 C:\Users\Richard\.gradle\caches\transforms-3\5e5343eef6897e90bff8d6c89108d3bd\transformed\jetified-runtime-release\res
+com.kitcuidados.app-jetified-lifecycle-viewmodel-compose-2.6.2-30 C:\Users\Richard\.gradle\caches\transforms-3\63c195a284b89e0795bcda26be34846c\transformed\jetified-lifecycle-viewmodel-compose-2.6.2\res
+com.kitcuidados.app-jetified-ui-release-31 C:\Users\Richard\.gradle\caches\transforms-3\685d608437c81ceea552f6c651285c55\transformed\jetified-ui-release\res
+com.kitcuidados.app-jetified-lifecycle-service-2.6.2-32 C:\Users\Richard\.gradle\caches\transforms-3\69e956c97fa9d00b77bee7d3b881b684\transformed\jetified-lifecycle-service-2.6.2\res
+com.kitcuidados.app-jetified-startup-runtime-1.1.1-33 C:\Users\Richard\.gradle\caches\transforms-3\6ad1f1760e0ad7dbea275f6e7e5a300e\transformed\jetified-startup-runtime-1.1.1\res
+com.kitcuidados.app-jetified-ui-geometry-release-34 C:\Users\Richard\.gradle\caches\transforms-3\6c3fadb1393b6b4af7e8afb932974197\transformed\jetified-ui-geometry-release\res
+com.kitcuidados.app-jetified-savedstate-1.2.1-35 C:\Users\Richard\.gradle\caches\transforms-3\70f13ca7acdd2c20fa7b3d6b79f65e46\transformed\jetified-savedstate-1.2.1\res
+com.kitcuidados.app-jetified-play-services-basement-18.1.0-36 C:\Users\Richard\.gradle\caches\transforms-3\711a6804e4db00ee1250bc598ef98cde\transformed\jetified-play-services-basement-18.1.0\res
+com.kitcuidados.app-jetified-annotation-experimental-1.4.0-37 C:\Users\Richard\.gradle\caches\transforms-3\718632b9da6a961d774b004cafc87536\transformed\jetified-annotation-experimental-1.4.0\res
+com.kitcuidados.app-jetified-activity-ktx-1.8.2-38 C:\Users\Richard\.gradle\caches\transforms-3\723c54f99de101af4d4132af80eb9e96\transformed\jetified-activity-ktx-1.8.2\res
+com.kitcuidados.app-navigation-common-ktx-2.7.6-39 C:\Users\Richard\.gradle\caches\transforms-3\732c23a516977755404453be17b81eb1\transformed\navigation-common-ktx-2.7.6\res
+com.kitcuidados.app-jetified-hilt-work-1.1.0-40 C:\Users\Richard\.gradle\caches\transforms-3\75f4d3db67c997140938098856407da8\transformed\jetified-hilt-work-1.1.0\res
+com.kitcuidados.app-browser-1.4.0-41 C:\Users\Richard\.gradle\caches\transforms-3\75f74c947ce69dc64c3b1c5061230cb8\transformed\browser-1.4.0\res
+com.kitcuidados.app-fragment-1.5.1-42 C:\Users\Richard\.gradle\caches\transforms-3\79dfef2125be5575c5389f759c72402e\transformed\fragment-1.5.1\res
+com.kitcuidados.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-43 C:\Users\Richard\.gradle\caches\transforms-3\79f183d204efabcb31087f62ee847516\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.kitcuidados.app-jetified-ui-unit-release-44 C:\Users\Richard\.gradle\caches\transforms-3\7ec8fcf810a5a1df80dc814079396b42\transformed\jetified-ui-unit-release\res
+com.kitcuidados.app-core-runtime-2.2.0-45 C:\Users\Richard\.gradle\caches\transforms-3\810fa0fa5fe353a830b3971684327b36\transformed\core-runtime-2.2.0\res
+com.kitcuidados.app-jetified-room-ktx-2.6.1-46 C:\Users\Richard\.gradle\caches\transforms-3\8699bea4454e019d1d00e6ae25680f53\transformed\jetified-room-ktx-2.6.1\res
+com.kitcuidados.app-navigation-common-2.7.6-47 C:\Users\Richard\.gradle\caches\transforms-3\884e336761f99dbd032b1f7445cc3499\transformed\navigation-common-2.7.6\res
+com.kitcuidados.app-jetified-play-services-base-18.0.1-48 C:\Users\Richard\.gradle\caches\transforms-3\89ff141234759ee5fb3ed717843fb091\transformed\jetified-play-services-base-18.0.1\res
+com.kitcuidados.app-lifecycle-viewmodel-2.6.2-49 C:\Users\Richard\.gradle\caches\transforms-3\980ee683e42ddc78fbef86641320681c\transformed\lifecycle-viewmodel-2.6.2\res
+com.kitcuidados.app-sqlite-2.4.0-50 C:\Users\Richard\.gradle\caches\transforms-3\9e2b8624ee23db8e7ad1a40345e1db07\transformed\sqlite-2.4.0\res
+com.kitcuidados.app-jetified-savedstate-ktx-1.2.1-51 C:\Users\Richard\.gradle\caches\transforms-3\9f1aabb1131b2c5d2284948607c54fe1\transformed\jetified-savedstate-ktx-1.2.1\res
+com.kitcuidados.app-jetified-core-ktx-1.12.0-52 C:\Users\Richard\.gradle\caches\transforms-3\a1ca1b1b3d0fd518d5f8abee5f84b583\transformed\jetified-core-ktx-1.12.0\res
+com.kitcuidados.app-lifecycle-runtime-2.6.2-53 C:\Users\Richard\.gradle\caches\transforms-3\b03dc17bc3fe6f90d1f8834d12ed33a7\transformed\lifecycle-runtime-2.6.2\res
+com.kitcuidados.app-jetified-datastore-1.0.0-54 C:\Users\Richard\.gradle\caches\transforms-3\b1f7f1648f2e761b0900c63677f84ba4\transformed\jetified-datastore-1.0.0\res
+com.kitcuidados.app-room-runtime-2.6.1-55 C:\Users\Richard\.gradle\caches\transforms-3\c74a1cb2ca1366401883f150230a299f\transformed\room-runtime-2.6.1\res
+com.kitcuidados.app-jetified-foundation-layout-release-56 C:\Users\Richard\.gradle\caches\transforms-3\c7abd79c7405ef4ba2204e99fb463ebd\transformed\jetified-foundation-layout-release\res
+com.kitcuidados.app-jetified-firebase-common-20.4.2-57 C:\Users\Richard\.gradle\caches\transforms-3\cf4be3d5e64ce5f4d6a6572f043f097d\transformed\jetified-firebase-common-20.4.2\res
+com.kitcuidados.app-jetified-foundation-release-58 C:\Users\Richard\.gradle\caches\transforms-3\d14ac502aa2df11bf783d21b9336e143\transformed\jetified-foundation-release\res
+com.kitcuidados.app-jetified-ui-graphics-release-59 C:\Users\Richard\.gradle\caches\transforms-3\d3304fd72757411ba49ae53257cd88f9\transformed\jetified-ui-graphics-release\res
+com.kitcuidados.app-jetified-ui-tooling-data-release-60 C:\Users\Richard\.gradle\caches\transforms-3\d542f38567828aa4b14bc47905e962bc\transformed\jetified-ui-tooling-data-release\res
+com.kitcuidados.app-jetified-hilt-navigation-compose-1.1.0-61 C:\Users\Richard\.gradle\caches\transforms-3\d7076fa4b910acd6c7982242afedb3dc\transformed\jetified-hilt-navigation-compose-1.1.0\res
+com.kitcuidados.app-jetified-ui-util-release-62 C:\Users\Richard\.gradle\caches\transforms-3\dc96a1462a26df05053e09163c9ed551\transformed\jetified-ui-util-release\res
+com.kitcuidados.app-jetified-activity-1.8.2-63 C:\Users\Richard\.gradle\caches\transforms-3\dd13ac6a2e135ea6cc14bc02a0306167\transformed\jetified-activity-1.8.2\res
+com.kitcuidados.app-jetified-material-ripple-release-64 C:\Users\Richard\.gradle\caches\transforms-3\dd86e5f10cb8bd1acfe33dff94c35300\transformed\jetified-material-ripple-release\res
+com.kitcuidados.app-jetified-lifecycle-viewmodel-ktx-2.6.2-65 C:\Users\Richard\.gradle\caches\transforms-3\e57b65533b98fd0d8d9198762d8dfeec\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.kitcuidados.app-lifecycle-livedata-core-2.6.2-66 C:\Users\Richard\.gradle\caches\transforms-3\e7388f142a26c912557f405218800254\transformed\lifecycle-livedata-core-2.6.2\res
+com.kitcuidados.app-jetified-activity-compose-1.8.2-67 C:\Users\Richard\.gradle\caches\transforms-3\e7d93e4715f8545fc1049873fc2cbab7\transformed\jetified-activity-compose-1.8.2\res
+com.kitcuidados.app-jetified-ui-tooling-preview-release-68 C:\Users\Richard\.gradle\caches\transforms-3\ebd1d2e7821230096ab2d8e3ba42ba5b\transformed\jetified-ui-tooling-preview-release\res
+com.kitcuidados.app-jetified-animation-core-release-69 C:\Users\Richard\.gradle\caches\transforms-3\f2ce4dd32ff39fff63d44c62fd47f73c\transformed\jetified-animation-core-release\res
+com.kitcuidados.app-jetified-lifecycle-runtime-compose-2.6.2-70 C:\Users\Richard\.gradle\caches\transforms-3\f30a1f4f74588a5e7d3ae8f1ae61665d\transformed\jetified-lifecycle-runtime-compose-2.6.2\res
+com.kitcuidados.app-navigation-runtime-2.7.6-71 C:\Users\Richard\.gradle\caches\transforms-3\fae5964cbbe80d67e1dad50a27e66c9b\transformed\navigation-runtime-2.7.6\res
+com.kitcuidados.app-jetified-hilt-navigation-1.1.0-72 C:\Users\Richard\.gradle\caches\transforms-3\fc8f7b6945929e2190bf93e4caefb3f6\transformed\jetified-hilt-navigation-1.1.0\res
+com.kitcuidados.app-jetified-ui-text-release-73 C:\Users\Richard\.gradle\caches\transforms-3\fcd5b290a60ffb01b6a0ac9c0a1fce31\transformed\jetified-ui-text-release\res
+com.kitcuidados.app-jetified-lifecycle-runtime-ktx-2.6.2-74 C:\Users\Richard\.gradle\caches\transforms-3\febdbcd88b60a6ff11fc750439ed31cd\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.kitcuidados.app-jetified-navigation-compose-2.7.6-75 C:\Users\Richard\.gradle\caches\transforms-3\ff4550b500753e04f0717c5e4d11fbf3\transformed\jetified-navigation-compose-2.7.6\res

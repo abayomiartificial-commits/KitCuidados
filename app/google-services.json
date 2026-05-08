@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "YOUR_PROJECT_NUMBER",
-    "project_id": "YOUR_PROJECT_ID",
-    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+    "project_number": "393983046188",
+    "project_id": "kitcuidados-bf7e4",
+    "storage_bucket": "kitcuidados-bf7e4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:YOUR_PROJECT_NUMBER:android:YOUR_APP_ID",
+        "mobilesdk_app_id": "1:393983046188:android:22aadac7312339fe1b5789",
         "android_client_info": {
           "package_name": "com.kitcuidados.app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "YOUR_API_KEY"
+          "current_key": "AIzaSyB0eCUOHGSkHB1mMuzjpcfK0I0k_NcBX84"
         }
       ],
       "services": {
